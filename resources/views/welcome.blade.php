@@ -65,7 +65,7 @@
     </head>
     <body>
         <div>
-            <h1>Welcome to laravel</h1>
+            <h1>Welcome to hitesh</h1>
         </div>
     </body>
 </html>
